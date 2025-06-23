@@ -39,11 +39,7 @@ To run app, run the following command
 ```
 
   
-## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/SagarDhandare/Liver-Disease-Prediction-Project/main/Images/screenshot.png)
-
-  
 ## Deployment
 
 To deploy this project run following command in the project folder
